@@ -1,0 +1,25 @@
+Name,Gender,Hairstyle,Hair Color,Eye Color,Eye Position,Eyelids,Eyebrows,Raised Brows,Glasses,Hat,Earrings,Rosy Cheeks,Moustache,Beard,Nose,Lips,Smile,Dimples
+Paul,Male,Full,White,Brown,Away,Droopy,Thin,No,Yes,No,No,Normal,No,No,Wide,Thin,Yes,Yes
+Alex,Male,Full,Black,Brown,Away,Normal,Normal,No,No,No,No,Normal,Yes,No,Small,Thick,Yes,No
+Herman,Male,Bald,Orange,Brown,Away,Normal,Normal,One,No,No,No,Normal,No,No,Average,Thin,No,Yes
+Richard,Male,Bald,Brown,Brown,Away,Normal,Thick,No,No,No,No,Normal,Yes,Yes,Long,Thin,No,Yes
+Eric,Male,Full,Yellow,Brown,Away,Normal,Thin,No,No,Yes,No,Normal,No,No,Long,Thin,Yes,No
+Claire,Female,Long,Orange,Brown,Away,Normal,Thin,No,Yes,Yes,No,Normal,No,No,Small,Thin,Yes,Yes
+David,Male,Full,Yellow,Brown,Away,Normal,Thin,No,No,No,No,Normal,No,Yes,Long,Thin,Yes,Yes
+Robert,Male,Full,Brown,Blue,Away,Normal,Thin,One,No,No,No,Yes,No,No,Round,Thin,Yes,Yes
+Frans,Male,Full,Orange,Brown,Away,Normal,Thin,Two,No,No,No,Normal,No,No,Round,Thin,No,No
+Tom,Male,Bald,Black,Blue,Away,Wide,Thin,Two,Yes,No,No,Normal,No,No,Round,Thin,No,Yes
+Joe,Male,Full,Yellow,Brown,Centered,Droopy,Thick,No,Yes,No,No,Normal,No,No,Wide,Thin,Yes,Yes
+Alfred,Male,Full,Orange,Blue,Centered,Droopy,Thick,No,No,No,No,Normal,Yes,No,Long,Thin,No,No
+Max,Male,Full,Black,Brown,Centered,Droopy,Thick,No,No,No,No,Normal,Yes,No,Wide,Thick,Yes,No
+Susan,Female,Long,Yellow,Brown,Centered,Droopy,Thin,No,No,No,Yes,Yes,No,No,Small,Thick,Yes,Yes
+George,Male,Full,White,Brown,Centered,Normal,Normal,One,No,Yes,No,Normal,No,No,Round,Thin,Yes,Yes
+Philip,Male,Full,Black,Brown,Centered,Normal,Thick,No,No,No,No,Yes,No,Yes,Long,Thin,Yes,Yes
+Peter,Male,Full,White,Blue,Centered,Normal,Thick,One,No,No,No,Normal,No,No,Wide,Thick,Yes,Yes
+Maria,Female,Long,Brown,Brown,Centered,Normal,Thin,No,No,Yes,Yes,Normal,No,No,Small,Thin,Yes,No
+Anita,Female,Full,White,Blue,Centered,Normal,Thin,No,No,No,No,Yes,No,No,Small,Thin,Yes,Yes
+Anne,Female,Full,Black,Brown,Centered,Normal,Thin,One,No,No,Yes,Normal,No,No,Average,Thin,Yes,Yes
+Bill,Male,Bald,Orange,Brown,Centered,Wide,Normal,Two,No,No,No,Yes,No,Yes,Average,Thin,Yes,Yes
+Bernard,Male,Long,Brown,Brown,Centered,Wide,Thick,No,No,Yes,No,Normal,No,No,Round,Thin,Yes,Yes
+Charles,Male,Full,Yellow,Brown,Centered,Wide,Thick,No,No,No,No,Normal,Yes,No,Long,Thick,Yes,No
+Sam,Male,Bald,White,Brown,Centered,Wide,Thick,Two,Yes,No,No,Normal,No,No,Round,Thin,No,No
